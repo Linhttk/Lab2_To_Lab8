@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lab 08</description>
+   <name>TC_LoadDataExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db32e997-46c9-4206-ba6b-e4654c162418</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a0a6caa-0a48-4261-9217-ccdd38d4e295</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3733cb08-489e-4dcb-9390-7e59f47ea4f7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea140d58-9022-4a26-a138-0d5844949e0d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
